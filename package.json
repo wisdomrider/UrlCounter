@@ -1,0 +1,24 @@
+{
+  "name": "urlcounter",
+  "version": "1.0.0",
+  "description": "Welcome to Glitch =================",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisdomrider/UrlCounter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wisdomrider/UrlCounter/issues"
+  },
+  "homepage": "https://github.com/wisdomrider/UrlCounter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.1.2"
+  }
+}
