@@ -14,5 +14,5 @@ This is just a simple realtime hits counter  which update the counts via socket
   the counter will updated automatically to 10 
   
 # How to check ?
-
-Just open your browser console (f12 for mozilla) and paste the above code and see !
+First open : https://wisdomrider.github.io/UrlCounter 
+then open your browser console (f12 for mozilla) and paste the above code and see !
